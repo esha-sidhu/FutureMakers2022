@@ -8,3 +8,6 @@ I learned a lot about Machine Learning and Scikit-learn. The information taught 
 
 Reflection of Day 3:
 The main area of focus was on deep learning, which was interesting to learn about. I previously thought machine learning and deep learning were mostly interchangeable, but I learned some of the key differences that differentiate the two.
+
+Reflection of Day 4:
+Today's class focused on TensorFlow, in which we covered some basics about how to use it. I enjoyed this lesson, since I know how useful knowledge about TensorFlow will be for my future, and I look forward to learning more about TensorFlow in the future.
