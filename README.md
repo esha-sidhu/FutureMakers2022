@@ -14,3 +14,5 @@ Today's class focused on TensorFlow, in which we covered some basics about how t
 
 Reflection of Day 5:
 The main area of focus for today was artificial neural networks. This class was my favorite so far, since we were able to learn about the structure of neural networks, and how they work. I look forward to learn more about artificial neural networks as we progress in the program.
+
+Reflection of Day 6:
