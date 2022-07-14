@@ -16,3 +16,4 @@ Reflection of Day 5:
 The main area of focus for today was artificial neural networks. This class was my favorite so far, since we were able to learn about the structure of neural networks, and how they work. I look forward to learn more about artificial neural networks as we progress in the program.
 
 Reflection of Day 6:
+Today's class focused on convolutional neural networks. This class was very interesting to me, since this kind of neural network is the one I think of when I think of artificial intelligence, especially the slides about the channels and how the kernels/filters are made. I didn't know the different types of neural networks, so it was cool to learn about another neural network.
