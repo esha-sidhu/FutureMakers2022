@@ -17,3 +17,6 @@ The main area of focus for today was artificial neural networks. This class was 
 
 Reflection of Day 6:
 Today's class focused on convolutional neural networks. This class was very interesting to me, since this kind of neural network is the one I think of when I think of artificial intelligence, especially the slides about the channels and how the kernels/filters are made. I didn't know the different types of neural networks, so it was cool to learn about another neural network.
+
+Reflection of Day 7:
+Today we learned about the biases that can be present relating to artificial intelligence, such as personal and environmental biases. I had previosuly learned about biases, and have read articles online about biases in artificial intelligence, so this was a nice refresher.
