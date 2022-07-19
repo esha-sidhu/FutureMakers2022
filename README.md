@@ -20,3 +20,6 @@ Today's class focused on convolutional neural networks. This class was very inte
 
 Reflection of Day 7:
 Today we learned about the biases that can be present relating to artificial intelligence, such as personal and environmental biases. I had previosuly learned about biases, and have read articles online about biases in artificial intelligence, so this was a nice refresher.
+
+Reflection of Day 8:
+The main area of focus today was the components of a convolutional neural network, including the four features and some of the operations. Tomorrow, we will cover th second part of the lecture, which covers digit classification.
