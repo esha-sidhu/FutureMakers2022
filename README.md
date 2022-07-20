@@ -23,3 +23,6 @@ Today we learned about the biases that can be present relating to artificial int
 
 Reflection of Day 8:
 The main area of focus today was the components of a convolutional neural network, including the four features and some of the operations. Tomorrow, we will cover th second part of the lecture, which covers digit classification.
+
+Reflection of Day 9:
+Today we covered loss functions- types of loss functions, and cases for common loss functions for regression and classifications. We also discussed model optimization and gradient descent.
