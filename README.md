@@ -26,3 +26,6 @@ The main area of focus today was the components of a convolutional neural networ
 
 Reflection of Day 9:
 Today we covered loss functions- types of loss functions, and cases for common loss functions for regression and classifications. We also discussed model optimization and gradient descent.
+
+Reflection of Day 10:
+Today we covered activation functions, such as the different types of activation functions and when to use the different activation functions. It was interesting for me to see all the graphs of the different activation functions on the same graph, to be able to compare them.
