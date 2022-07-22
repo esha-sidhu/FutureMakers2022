@@ -29,3 +29,9 @@ Today we covered loss functions- types of loss functions, and cases for common l
 
 Reflection of Day 10:
 Today we covered activation functions, such as the different types of activation functions and when to use the different activation functions. It was interesting for me to see all the graphs of the different activation functions on the same graph, to be able to compare them.
+
+Reflection of Day 11:
+We learned about the ethical considerations we need to make when solving problems with artificial intelligence. For example, we discussed criminal justice and autonomous vehicles, and the ethics concerns that rose when trying to solve the problem using artificial intelligence.
+
+Reflection of Day 12:
+Today we discussed image classification, traditional machine learning classification approaches versus deep learning classification approaches, and support vector machines.
