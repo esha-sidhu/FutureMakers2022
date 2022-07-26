@@ -37,4 +37,4 @@ Reflection of Day 12:
 Today we discussed image classification, traditional machine learning classification approaches versus deep learning classification approaches, and support vector machines.
 
 Reflection of Day 13:
-Today we covered machine learning model training metrics, underfitting and overfitting, and regularization.
+Today we covered machine learning model training metrics (such as generalization and learning curves), underfitting and overfitting, and L1 versus L2 regularization (and how regularization can reduce overfitting).
