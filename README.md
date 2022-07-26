@@ -35,3 +35,6 @@ We learned about the ethical considerations we need to make when solving problem
 
 Reflection of Day 12:
 Today we discussed image classification, traditional machine learning classification approaches versus deep learning classification approaches, and support vector machines.
+
+Reflection of Day 13:
+Today we covered machine learning model training metrics, underfitting and overfitting, and regularization.
