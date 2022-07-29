@@ -46,3 +46,4 @@ Reflection of Day 15:
 Today we covered autoencoders in more depth. We went over the definition and features of an autoencoder, why we use autoencoders, basic autoencoder archotectures, common types of autoencoders, and upsampling, downsampling, and unsampling techniques.
 
 Reflection of Day 16:
+The focus of today was natural language processing (NLP). We covered applications of NLP, important considerations for NLP, the NLP pipeline, text preprocessing for NLP, feature extraction, the TD-IDF technique, and NLP modeling.
