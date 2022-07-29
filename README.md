@@ -38,3 +38,11 @@ Today we discussed image classification, traditional machine learning classifica
 
 Reflection of Day 13:
 Today we covered machine learning model training metrics (such as generalization and learning curves), underfitting and overfitting, and L1 versus L2 regularization (and how regularization can reduce overfitting).
+
+Reflection of Day 14:
+Today we went over affective computing, emotional AI, and a little bit into autoencoders. We learned about encoders, which performs downsampling/compression, and decoders, which upsampling/expansion. We discussed the lack of machine capabiliy to understand human emotion, the data driven approch to emotional AI, and some projects being done in the field of emotional AI.
+
+Reflection of Day 15:
+Today we covered autoencoders in more depth. We went over the definition and features of an autoencoder, why we use autoencoders, basic autoencoder archotectures, common types of autoencoders, and upsampling, downsampling, and unsampling techniques.
+
+Reflection of Day 16:
