@@ -47,3 +47,6 @@ Today we covered autoencoders in more depth. We went over the definition and fea
 
 Reflection of Day 16:
 The focus of today was natural language processing (NLP). We covered applications of NLP, important considerations for NLP, the NLP pipeline, text preprocessing for NLP, feature extraction, the TD-IDF technique, and NLP modeling.
+
+Reflection of Day 17:
+The focus of this class was on computer vision. We discussed the differences between a traditional computer vision approach and a deep learning approach, common computer vision tasks with deep learning, various computer vision applications, and GAN architecture.
